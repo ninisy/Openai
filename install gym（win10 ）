@@ -1,0 +1,4 @@
+主要参照网址：https://github.com/j8lp/atari-py
+
+问题：因为安装了两个python，一个是独立的，一个是依附于anaconda，进行上述操作时，不小心在独立的python上操作了，
+     结果后来想在anaconda上安装，就一直报错。即使将Atari文件下载到新的目录，重新操作也是报错。所以很遗憾，没办法在anaconda上使用。
